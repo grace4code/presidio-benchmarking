@@ -1,0 +1,182 @@
+{
+    "EMAIL_ADDRESS": {
+        "true_positives": 20,
+        "false_positives": 20,
+        "false_negatives": 0,
+        "support": 20,
+        "precision": 0.5,
+        "recall": 1.0,
+        "f1_score": 0.67
+    },
+    "PHONE_NUMBER": {
+        "true_positives": 13,
+        "false_positives": 6,
+        "false_negatives": 7,
+        "support": 20,
+        "precision": 0.68,
+        "recall": 0.65,
+        "f1_score": 0.67
+    },
+    "PERSON": {
+        "true_positives": 20,
+        "false_positives": 0,
+        "false_negatives": 0,
+        "support": 20,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0
+    },
+    "LOCATION": {
+        "true_positives": 3,
+        "false_positives": 9,
+        "false_negatives": 17,
+        "support": 20,
+        "precision": 0.25,
+        "recall": 0.15,
+        "f1_score": 0.19
+    },
+    "DATE_TIME": {
+        "true_positives": 20,
+        "false_positives": 0,
+        "false_negatives": 0,
+        "support": 20,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0
+    },
+    "NRP": {
+        "true_positives": 0,
+        "false_positives": 30,
+        "false_negatives": 20,
+        "support": 20,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0
+    },
+    "IP_ADDRESS": {
+        "true_positives": 20,
+        "false_positives": 7,
+        "false_negatives": 0,
+        "support": 20,
+        "precision": 0.74,
+        "recall": 1.0,
+        "f1_score": 0.85
+    },
+    "CREDIT_CARD": {
+        "true_positives": 15,
+        "false_positives": 41,
+        "false_negatives": 5,
+        "support": 20,
+        "precision": 0.27,
+        "recall": 0.75,
+        "f1_score": 0.39
+    },
+    "IBAN_CODE": {
+        "true_positives": 20,
+        "false_positives": 3,
+        "false_negatives": 0,
+        "support": 20,
+        "precision": 0.87,
+        "recall": 1.0,
+        "f1_score": 0.93
+    },
+    "US_SSN": {
+        "true_positives": 20,
+        "false_positives": 3,
+        "false_negatives": 0,
+        "support": 20,
+        "precision": 0.87,
+        "recall": 1.0,
+        "f1_score": 0.93
+    },
+    "US_DRIVER_LICENSE": {
+        "true_positives": 20,
+        "false_positives": 0,
+        "false_negatives": 0,
+        "support": 20,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0
+    },
+    "US_PASSPORT": {
+        "true_positives": 20,
+        "false_positives": 22,
+        "false_negatives": 0,
+        "support": 20,
+        "precision": 0.48,
+        "recall": 1.0,
+        "f1_score": 0.65
+    },
+    "US_BANK_NUMBER": {
+        "true_positives": 20,
+        "false_positives": 55,
+        "false_negatives": 0,
+        "support": 20,
+        "precision": 0.27,
+        "recall": 1.0,
+        "f1_score": 0.42
+    },
+    "US_ITIN": {
+        "true_positives": 12,
+        "false_positives": 21,
+        "false_negatives": 8,
+        "support": 20,
+        "precision": 0.36,
+        "recall": 0.6,
+        "f1_score": 0.45
+    },
+    "ORGANIZATION": {
+        "true_positives": 0,
+        "false_positives": 23,
+        "false_negatives": 20,
+        "support": 20,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0
+    },
+    "URL": {
+        "true_positives": 20,
+        "false_positives": 1,
+        "false_negatives": 0,
+        "support": 20,
+        "precision": 0.95,
+        "recall": 1.0,
+        "f1_score": 0.98
+    },
+    "USERNAME": {
+        "true_positives": 0,
+        "false_positives": 4,
+        "false_negatives": 20,
+        "support": 20,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0
+    },
+    "PASSWORD": {
+        "true_positives": 0,
+        "false_positives": 1,
+        "false_negatives": 20,
+        "support": 20,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0
+    },
+    "AGE": {
+        "true_positives": 0,
+        "false_positives": 0,
+        "false_negatives": 20,
+        "support": 20,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0
+    },
+    "ZIP": {
+        "true_positives": 0,
+        "false_positives": 12,
+        "false_negatives": 20,
+        "support": 20,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0
+    }
+}

@@ -1,0 +1,1242 @@
+[
+  {
+    "entity_type": "US_BANK_NUMBER",
+    "text": "This example includes a Us Bank Number: 275980307218."
+  },
+  {
+    "entity_type": "LOCATION",
+    "text": "This example includes a Location: Saundersburgh."
+  },
+  {
+    "entity_type": "AU_ACN",
+    "text": "This example includes a Au Acn: 862914098."
+  },
+  {
+    "entity_type": "EMAIL_ADDRESS",
+    "text": "This example includes a Email Address: cohenkristine@example.net."
+  },
+  {
+    "entity_type": "IT_VAT_CODE",
+    "text": "This example includes a It Vat Code: 56656628004."
+  },
+  {
+    "entity_type": "SG_UEN",
+    "text": "This example includes a Sg Uen: 872960923O."
+  },
+  {
+    "entity_type": "IBAN_CODE",
+    "text": "This example includes a Iban Code: GB80VMKN01048020270506."
+  },
+  {
+    "entity_type": "NRP",
+    "text": "This example includes a Nrp: melissamaldonado."
+  },
+  {
+    "entity_type": "IBAN_CODE",
+    "text": "This example includes a Iban Code: GB96KPDQ59903110464870."
+  },
+  {
+    "entity_type": "PHONE_NUMBER",
+    "text": "This example includes a Phone Number: 001-622-291-5466."
+  },
+  {
+    "entity_type": "CRYPTO",
+    "text": "This example includes a Crypto: 0x4e5230748c569329192a4ab8fe044a92f756e10c."
+  },
+  {
+    "entity_type": "SG_UEN",
+    "text": "This example includes a Sg Uen: 314899210N."
+  },
+  {
+    "entity_type": "CRYPTO",
+    "text": "This example includes a Crypto: 0x4f1147a6b31db206eb38ab94b74e13666eb21586."
+  },
+  {
+    "entity_type": "URL",
+    "text": "This example includes a Url: http://www.sanchez.com/."
+  },
+  {
+    "entity_type": "IT_PASSPORT",
+    "text": "This example includes a It Passport: 471214016."
+  },
+  {
+    "entity_type": "UK_NINO",
+    "text": "This example includes a Uk Nino: VO588553Y."
+  },
+  {
+    "entity_type": "PHONE_NUMBER",
+    "text": "This example includes a Phone Number: 607-480-7969."
+  },
+  {
+    "entity_type": "AU_ACN",
+    "text": "This example includes a Au Acn: 188659892."
+  },
+  {
+    "entity_type": "NRP",
+    "text": "This example includes a Nrp: kennethwhite."
+  },
+  {
+    "entity_type": "LOCATION",
+    "text": "This example includes a Location: Lake Eileen."
+  },
+  {
+    "entity_type": "PL_PESEL",
+    "text": "This example includes a Pl Pesel: 68794320104."
+  },
+  {
+    "entity_type": "PL_PESEL",
+    "text": "This example includes a Pl Pesel: 07883551451."
+  },
+  {
+    "entity_type": "AU_ACN",
+    "text": "This example includes a Au Acn: 792861120."
+  },
+  {
+    "entity_type": "NRP",
+    "text": "This example includes a Nrp: nicholassteele."
+  },
+  {
+    "entity_type": "EMAIL_ADDRESS",
+    "text": "This example includes a Email Address: shermancody@example.org."
+  },
+  {
+    "entity_type": "US_SSN",
+    "text": "This example includes a Us Ssn: 378-91-9655."
+  },
+  {
+    "entity_type": "MEDICAL_LICENSE",
+    "text": "This example includes a Medical License: ML-5323467."
+  },
+  {
+    "entity_type": "AU_ABN",
+    "text": "This example includes a Au Abn: 90966920478."
+  },
+  {
+    "entity_type": "CRYPTO",
+    "text": "This example includes a Crypto: 0xd9eb753b740124c46d70fbf6d7237c9918250ae5."
+  },
+  {
+    "entity_type": "IT_VAT_CODE",
+    "text": "This example includes a It Vat Code: 32529211193."
+  },
+  {
+    "entity_type": "LOCATION",
+    "text": "This example includes a Location: West Tammy."
+  },
+  {
+    "entity_type": "IT_DRIVER_LICENSE",
+    "text": "This example includes a It Driver License: 4074908299."
+  },
+  {
+    "entity_type": "IBAN_CODE",
+    "text": "This example includes a Iban Code: GB17VRUZ46261484831277."
+  },
+  {
+    "entity_type": "US_PASSPORT",
+    "text": "This example includes a Us Passport: X53859041."
+  },
+  {
+    "entity_type": "US_PASSPORT",
+    "text": "This example includes a Us Passport: 032091792."
+  },
+  {
+    "entity_type": "IT_VAT_CODE",
+    "text": "This example includes a It Vat Code: 31293924602."
+  },
+  {
+    "entity_type": "US_DRIVER_LICENSE",
+    "text": "This example includes a Us Driver License: D08863495."
+  },
+  {
+    "entity_type": "US_PASSPORT",
+    "text": "This example includes a Us Passport: 118015351."
+  },
+  {
+    "entity_type": "URL",
+    "text": "This example includes a Url: https://www.henry.com/."
+  },
+  {
+    "entity_type": "US_PASSPORT",
+    "text": "This example includes a Us Passport: 399247937."
+  },
+  {
+    "entity_type": "UK_NHS",
+    "text": "This example includes a Uk Nhs: 5500727030."
+  },
+  {
+    "entity_type": "AU_ACN",
+    "text": "This example includes a Au Acn: 266650199."
+  },
+  {
+    "entity_type": "IBAN_CODE",
+    "text": "This example includes a Iban Code: GB30QNNE93657571060294."
+  },
+  {
+    "entity_type": "IBAN_CODE",
+    "text": "This example includes a Iban Code: GB33YDQC52676769613983."
+  },
+  {
+    "entity_type": "CRYPTO",
+    "text": "This example includes a Crypto: 0x6ab53738268345ed2af5cd9b0365de1df8c6556f."
+  },
+  {
+    "entity_type": "EMAIL_ADDRESS",
+    "text": "This example includes a Email Address: amybarber@example.com."
+  },
+  {
+    "entity_type": "DATE_TIME",
+    "text": "This example includes a Date Time: 1989-10-02 10:04:38."
+  },
+  {
+    "entity_type": "PERSON",
+    "text": "This example includes a Person: Mrs. Lauren Mclean."
+  },
+  {
+    "entity_type": "UK_NINO",
+    "text": "This example includes a Uk Nino: PL314501P."
+  },
+  {
+    "entity_type": "US_ITIN",
+    "text": "This example includes a Us Itin: 907-12-4422."
+  },
+  {
+    "entity_type": "PL_PESEL",
+    "text": "This example includes a Pl Pesel: 17677323740."
+  },
+  {
+    "entity_type": "NRP",
+    "text": "This example includes a Nrp: gdavies."
+  },
+  {
+    "entity_type": "MEDICAL_LICENSE",
+    "text": "This example includes a Medical License: ML-8068957."
+  },
+  {
+    "entity_type": "US_SSN",
+    "text": "This example includes a Us Ssn: 694-89-4109."
+  },
+  {
+    "entity_type": "MEDICAL_LICENSE",
+    "text": "This example includes a Medical License: ML-9810509."
+  },
+  {
+    "entity_type": "IT_FISCAL_CODE",
+    "text": "This example includes a It Fiscal Code: QECHDA79O49B592F."
+  },
+  {
+    "entity_type": "UK_NINO",
+    "text": "This example includes a Uk Nino: ZZ398777C."
+  },
+  {
+    "entity_type": "US_SSN",
+    "text": "This example includes a Us Ssn: 377-42-4410."
+  },
+  {
+    "entity_type": "IP_ADDRESS",
+    "text": "This example includes a Ip Address: 85.57.230.71."
+  },
+  {
+    "entity_type": "US_BANK_NUMBER",
+    "text": "This example includes a Us Bank Number: 635769157479."
+  },
+  {
+    "entity_type": "PHONE_NUMBER",
+    "text": "This example includes a Phone Number: (905)832-4770."
+  },
+  {
+    "entity_type": "CRYPTO",
+    "text": "This example includes a Crypto: 0xd3d77bbf58bc855b52a446c797aae9fe6f74cffc."
+  },
+  {
+    "entity_type": "AU_ABN",
+    "text": "This example includes a Au Abn: 77975313418."
+  },
+  {
+    "entity_type": "ES_NIF",
+    "text": "This example includes a Es Nif: 71445092K."
+  },
+  {
+    "entity_type": "CREDIT_CARD",
+    "text": "This example includes a Credit Card: 3568863672964219."
+  },
+  {
+    "entity_type": "PHONE_NUMBER",
+    "text": "This example includes a Phone Number: +1-589-546-9942x6071."
+  },
+  {
+    "entity_type": "SG_NRIC_FIN",
+    "text": "This example includes a Sg Nric Fin: T6665874L."
+  },
+  {
+    "entity_type": "AU_ACN",
+    "text": "This example includes a Au Acn: 501920020."
+  },
+  {
+    "entity_type": "PERSON",
+    "text": "This example includes a Person: Neil Farrell."
+  },
+  {
+    "entity_type": "IBAN_CODE",
+    "text": "This example includes a Iban Code: GB46UBOO57533495448110."
+  },
+  {
+    "entity_type": "IT_DRIVER_LICENSE",
+    "text": "This example includes a It Driver License: 5497429055."
+  },
+  {
+    "entity_type": "IBAN_CODE",
+    "text": "This example includes a Iban Code: GB77DHCC52066245919978."
+  },
+  {
+    "entity_type": "SG_UEN",
+    "text": "This example includes a Sg Uen: 366833565V."
+  },
+  {
+    "entity_type": "IT_PASSPORT",
+    "text": "This example includes a It Passport: 266171824."
+  },
+  {
+    "entity_type": "NRP",
+    "text": "This example includes a Nrp: walterhenry."
+  },
+  {
+    "entity_type": "US_SSN",
+    "text": "This example includes a Us Ssn: 750-12-8903."
+  },
+  {
+    "entity_type": "US_DRIVER_LICENSE",
+    "text": "This example includes a Us Driver License: D42594624."
+  },
+  {
+    "entity_type": "AU_ACN",
+    "text": "This example includes a Au Acn: 883638002."
+  },
+  {
+    "entity_type": "EMAIL_ADDRESS",
+    "text": "This example includes a Email Address: ychoi@example.org."
+  },
+  {
+    "entity_type": "IT_VAT_CODE",
+    "text": "This example includes a It Vat Code: 41745145436."
+  },
+  {
+    "entity_type": "US_ITIN",
+    "text": "This example includes a Us Itin: 900-03-4548."
+  },
+  {
+    "entity_type": "UK_NINO",
+    "text": "This example includes a Uk Nino: LQ011333G."
+  },
+  {
+    "entity_type": "IT_FISCAL_CODE",
+    "text": "This example includes a It Fiscal Code: YSSWYW93R20X871Y."
+  },
+  {
+    "entity_type": "NRP",
+    "text": "This example includes a Nrp: deborahmoyer."
+  },
+  {
+    "entity_type": "PERSON",
+    "text": "This example includes a Person: Summer Elliott."
+  },
+  {
+    "entity_type": "UK_NINO",
+    "text": "This example includes a Uk Nino: AY615623V."
+  },
+  {
+    "entity_type": "PERSON",
+    "text": "This example includes a Person: Emily Lee."
+  },
+  {
+    "entity_type": "IP_ADDRESS",
+    "text": "This example includes a Ip Address: 181.247.84.235."
+  },
+  {
+    "entity_type": "LOCATION",
+    "text": "This example includes a Location: Wendychester."
+  },
+  {
+    "entity_type": "US_BANK_NUMBER",
+    "text": "This example includes a Us Bank Number: 403864116584."
+  },
+  {
+    "entity_type": "US_DRIVER_LICENSE",
+    "text": "This example includes a Us Driver License: D07721595."
+  },
+  {
+    "entity_type": "NRP",
+    "text": "This example includes a Nrp: patrickgarcia."
+  },
+  {
+    "entity_type": "AU_ABN",
+    "text": "This example includes a Au Abn: 69096213520."
+  },
+  {
+    "entity_type": "AU_ACN",
+    "text": "This example includes a Au Acn: 956844563."
+  },
+  {
+    "entity_type": "PHONE_NUMBER",
+    "text": "This example includes a Phone Number: +1-807-757-5348x72255."
+  },
+  {
+    "entity_type": "ES_NIE",
+    "text": "This example includes a Es Nie: Y5022917U."
+  },
+  {
+    "entity_type": "CRYPTO",
+    "text": "This example includes a Crypto: 0x943f27b2d1eb5b06e68490b72a1df5405382291f."
+  },
+  {
+    "entity_type": "IP_ADDRESS",
+    "text": "This example includes a Ip Address: 137.176.235.144."
+  },
+  {
+    "entity_type": "URL",
+    "text": "This example includes a Url: http://www.spencer-hansen.com/."
+  },
+  {
+    "entity_type": "US_BANK_NUMBER",
+    "text": "This example includes a Us Bank Number: 433222009088."
+  },
+  {
+    "entity_type": "IT_PASSPORT",
+    "text": "This example includes a It Passport: 803653570."
+  },
+  {
+    "entity_type": "PHONE_NUMBER",
+    "text": "This example includes a Phone Number: 001-892-862-2612x7429."
+  },
+  {
+    "entity_type": "IT_VAT_CODE",
+    "text": "This example includes a It Vat Code: 20936094433."
+  },
+  {
+    "entity_type": "URL",
+    "text": "This example includes a Url: http://www.nguyen.com/."
+  },
+  {
+    "entity_type": "EMAIL_ADDRESS",
+    "text": "This example includes a Email Address: katherinejones@example.net."
+  },
+  {
+    "entity_type": "ES_NIF",
+    "text": "This example includes a Es Nif: 15672602P."
+  },
+  {
+    "entity_type": "SG_NRIC_FIN",
+    "text": "This example includes a Sg Nric Fin: S6942872F."
+  },
+  {
+    "entity_type": "IT_DRIVER_LICENSE",
+    "text": "This example includes a It Driver License: 7909723215."
+  },
+  {
+    "entity_type": "ES_NIF",
+    "text": "This example includes a Es Nif: 86012088P."
+  },
+  {
+    "entity_type": "AU_ACN",
+    "text": "This example includes a Au Acn: 799006961."
+  },
+  {
+    "entity_type": "US_SSN",
+    "text": "This example includes a Us Ssn: 015-01-6688."
+  },
+  {
+    "entity_type": "SG_NRIC_FIN",
+    "text": "This example includes a Sg Nric Fin: S6674351L."
+  },
+  {
+    "entity_type": "PHONE_NUMBER",
+    "text": "This example includes a Phone Number: (898)751-6345."
+  },
+  {
+    "entity_type": "US_PASSPORT",
+    "text": "This example includes a Us Passport: N53427907."
+  },
+  {
+    "entity_type": "IBAN_CODE",
+    "text": "This example includes a Iban Code: GB72QSWB87635440802613."
+  },
+  {
+    "entity_type": "MEDICAL_LICENSE",
+    "text": "This example includes a Medical License: ML-9617979."
+  },
+  {
+    "entity_type": "US_ITIN",
+    "text": "This example includes a Us Itin: 991-38-4773."
+  },
+  {
+    "entity_type": "NRP",
+    "text": "This example includes a Nrp: judithmartin."
+  },
+  {
+    "entity_type": "URL",
+    "text": "This example includes a Url: https://turner.biz/."
+  },
+  {
+    "entity_type": "US_ITIN",
+    "text": "This example includes a Us Itin: 945-61-5732."
+  },
+  {
+    "entity_type": "SG_NRIC_FIN",
+    "text": "This example includes a Sg Nric Fin: F7439137D."
+  },
+  {
+    "entity_type": "IT_DRIVER_LICENSE",
+    "text": "This example includes a It Driver License: 4554657154."
+  },
+  {
+    "entity_type": "IT_VAT_CODE",
+    "text": "This example includes a It Vat Code: 61201111960."
+  },
+  {
+    "entity_type": "CRYPTO",
+    "text": "This example includes a Crypto: 0xccdab7571157006dd1f8f97c073150f060bb6789."
+  },
+  {
+    "entity_type": "URL",
+    "text": "This example includes a Url: http://mitchell.com/."
+  },
+  {
+    "entity_type": "EMAIL_ADDRESS",
+    "text": "This example includes a Email Address: caitlin25@example.net."
+  },
+  {
+    "entity_type": "IP_ADDRESS",
+    "text": "This example includes a Ip Address: 215.180.83.116."
+  },
+  {
+    "entity_type": "IP_ADDRESS",
+    "text": "This example includes a Ip Address: 159.231.38.60."
+  },
+  {
+    "entity_type": "PHONE_NUMBER",
+    "text": "This example includes a Phone Number: 929.662.0444x7458."
+  },
+  {
+    "entity_type": "AU_ACN",
+    "text": "This example includes a Au Acn: 974409560."
+  },
+  {
+    "entity_type": "IT_IDENTITY_CARD",
+    "text": "This example includes a It Identity Card: CA3609166."
+  },
+  {
+    "entity_type": "EMAIL_ADDRESS",
+    "text": "This example includes a Email Address: amanda41@example.com."
+  },
+  {
+    "entity_type": "IP_ADDRESS",
+    "text": "This example includes a Ip Address: 142.188.105.216."
+  },
+  {
+    "entity_type": "IT_VAT_CODE",
+    "text": "This example includes a It Vat Code: 64314242886."
+  },
+  {
+    "entity_type": "SG_UEN",
+    "text": "This example includes a Sg Uen: 323978288N."
+  },
+  {
+    "entity_type": "UK_NINO",
+    "text": "This example includes a Uk Nino: GK022569U."
+  },
+  {
+    "entity_type": "IT_IDENTITY_CARD",
+    "text": "This example includes a It Identity Card: CA1063985."
+  },
+  {
+    "entity_type": "CREDIT_CARD",
+    "text": "This example includes a Credit Card: 4542371374807115."
+  },
+  {
+    "entity_type": "UK_NHS",
+    "text": "This example includes a Uk Nhs: 9337579086."
+  },
+  {
+    "entity_type": "UK_NHS",
+    "text": "This example includes a Uk Nhs: 5046693539."
+  },
+  {
+    "entity_type": "PL_PESEL",
+    "text": "This example includes a Pl Pesel: 30016670499."
+  },
+  {
+    "entity_type": "UK_NHS",
+    "text": "This example includes a Uk Nhs: 2356583155."
+  },
+  {
+    "entity_type": "DATE_TIME",
+    "text": "This example includes a Date Time: 2000-10-15 01:47:38."
+  },
+  {
+    "entity_type": "PHONE_NUMBER",
+    "text": "This example includes a Phone Number: 487-242-6091x6610."
+  },
+  {
+    "entity_type": "ES_NIF",
+    "text": "This example includes a Es Nif: 98249106N."
+  },
+  {
+    "entity_type": "CREDIT_CARD",
+    "text": "This example includes a Credit Card: 4959845653552."
+  },
+  {
+    "entity_type": "IT_PASSPORT",
+    "text": "This example includes a It Passport: 046461151."
+  },
+  {
+    "entity_type": "URL",
+    "text": "This example includes a Url: http://travis.info/."
+  },
+  {
+    "entity_type": "US_ITIN",
+    "text": "This example includes a Us Itin: 994-06-9010."
+  },
+  {
+    "entity_type": "ES_NIE",
+    "text": "This example includes a Es Nie: Y4665482E."
+  },
+  {
+    "entity_type": "IP_ADDRESS",
+    "text": "This example includes a Ip Address: 59.52.16.43."
+  },
+  {
+    "entity_type": "IT_FISCAL_CODE",
+    "text": "This example includes a It Fiscal Code: NOOZLI22S78N915V."
+  },
+  {
+    "entity_type": "PHONE_NUMBER",
+    "text": "This example includes a Phone Number: 404.403.3315x5041."
+  },
+  {
+    "entity_type": "US_SSN",
+    "text": "This example includes a Us Ssn: 730-74-0105."
+  },
+  {
+    "entity_type": "IT_DRIVER_LICENSE",
+    "text": "This example includes a It Driver License: 8191702628."
+  },
+  {
+    "entity_type": "DATE_TIME",
+    "text": "This example includes a Date Time: 1987-04-03 18:01:10."
+  },
+  {
+    "entity_type": "UK_NHS",
+    "text": "This example includes a Uk Nhs: 9195541537."
+  },
+  {
+    "entity_type": "AU_ACN",
+    "text": "This example includes a Au Acn: 963252813."
+  },
+  {
+    "entity_type": "AU_ACN",
+    "text": "This example includes a Au Acn: 533021786."
+  },
+  {
+    "entity_type": "IP_ADDRESS",
+    "text": "This example includes a Ip Address: 83.120.232.0."
+  },
+  {
+    "entity_type": "MEDICAL_LICENSE",
+    "text": "This example includes a Medical License: ML-9020033."
+  },
+  {
+    "entity_type": "MEDICAL_LICENSE",
+    "text": "This example includes a Medical License: ML-5463642."
+  },
+  {
+    "entity_type": "IP_ADDRESS",
+    "text": "This example includes a Ip Address: 198.98.172.107."
+  },
+  {
+    "entity_type": "NRP",
+    "text": "This example includes a Nrp: erinvargas."
+  },
+  {
+    "entity_type": "DATE_TIME",
+    "text": "This example includes a Date Time: 2002-10-07 11:03:28."
+  },
+  {
+    "entity_type": "US_ITIN",
+    "text": "This example includes a Us Itin: 927-32-6188."
+  },
+  {
+    "entity_type": "IT_IDENTITY_CARD",
+    "text": "This example includes a It Identity Card: CA3283927."
+  },
+  {
+    "entity_type": "SG_NRIC_FIN",
+    "text": "This example includes a Sg Nric Fin: G8275788S."
+  },
+  {
+    "entity_type": "URL",
+    "text": "This example includes a Url: https://www.chapman.com/."
+  },
+  {
+    "entity_type": "AU_ACN",
+    "text": "This example includes a Au Acn: 072586547."
+  },
+  {
+    "entity_type": "IT_DRIVER_LICENSE",
+    "text": "This example includes a It Driver License: 6796315508."
+  },
+  {
+    "entity_type": "AU_ACN",
+    "text": "This example includes a Au Acn: 338378639."
+  },
+  {
+    "entity_type": "NRP",
+    "text": "This example includes a Nrp: rogerssheena."
+  },
+  {
+    "entity_type": "ES_NIF",
+    "text": "This example includes a Es Nif: 88481694W."
+  },
+  {
+    "entity_type": "ES_NIF",
+    "text": "This example includes a Es Nif: 55835996Z."
+  },
+  {
+    "entity_type": "MEDICAL_LICENSE",
+    "text": "This example includes a Medical License: ML-8319348."
+  },
+  {
+    "entity_type": "UK_NHS",
+    "text": "This example includes a Uk Nhs: 4724475963."
+  },
+  {
+    "entity_type": "PHONE_NUMBER",
+    "text": "This example includes a Phone Number: (471)239-9238x74636."
+  },
+  {
+    "entity_type": "US_ITIN",
+    "text": "This example includes a Us Itin: 923-25-9567."
+  },
+  {
+    "entity_type": "URL",
+    "text": "This example includes a Url: http://jones-burgess.info/."
+  },
+  {
+    "entity_type": "DATE_TIME",
+    "text": "This example includes a Date Time: 1972-03-19 12:31:29."
+  },
+  {
+    "entity_type": "IP_ADDRESS",
+    "text": "This example includes a Ip Address: 129.100.56.121."
+  },
+  {
+    "entity_type": "PL_PESEL",
+    "text": "This example includes a Pl Pesel: 90475136715."
+  },
+  {
+    "entity_type": "US_BANK_NUMBER",
+    "text": "This example includes a Us Bank Number: 989381367965."
+  },
+  {
+    "entity_type": "SG_UEN",
+    "text": "This example includes a Sg Uen: 914360759Z."
+  },
+  {
+    "entity_type": "US_PASSPORT",
+    "text": "This example includes a Us Passport: V79397116."
+  },
+  {
+    "entity_type": "UK_NINO",
+    "text": "This example includes a Uk Nino: NM699967P."
+  },
+  {
+    "entity_type": "IP_ADDRESS",
+    "text": "This example includes a Ip Address: 120.224.97.198."
+  },
+  {
+    "entity_type": "SG_UEN",
+    "text": "This example includes a Sg Uen: 931925467D."
+  },
+  {
+    "entity_type": "IBAN_CODE",
+    "text": "This example includes a Iban Code: GB21UKVZ68748380624444."
+  },
+  {
+    "entity_type": "IT_VAT_CODE",
+    "text": "This example includes a It Vat Code: 30753724146."
+  },
+  {
+    "entity_type": "US_SSN",
+    "text": "This example includes a Us Ssn: 323-23-8519."
+  },
+  {
+    "entity_type": "SG_NRIC_FIN",
+    "text": "This example includes a Sg Nric Fin: S2926318E."
+  },
+  {
+    "entity_type": "US_DRIVER_LICENSE",
+    "text": "This example includes a Us Driver License: D50150615."
+  },
+  {
+    "entity_type": "PERSON",
+    "text": "This example includes a Person: Stephen Turner."
+  },
+  {
+    "entity_type": "NRP",
+    "text": "This example includes a Nrp: tuckerrita."
+  },
+  {
+    "entity_type": "NRP",
+    "text": "This example includes a Nrp: lowerytravis."
+  },
+  {
+    "entity_type": "PERSON",
+    "text": "This example includes a Person: Drew White."
+  },
+  {
+    "entity_type": "DATE_TIME",
+    "text": "This example includes a Date Time: 1986-06-05 18:23:54."
+  },
+  {
+    "entity_type": "EMAIL_ADDRESS",
+    "text": "This example includes a Email Address: eric99@example.com."
+  },
+  {
+    "entity_type": "PERSON",
+    "text": "This example includes a Person: Julie Scott."
+  },
+  {
+    "entity_type": "SG_UEN",
+    "text": "This example includes a Sg Uen: 832549207E."
+  },
+  {
+    "entity_type": "US_DRIVER_LICENSE",
+    "text": "This example includes a Us Driver License: D81116468."
+  },
+  {
+    "entity_type": "ES_NIF",
+    "text": "This example includes a Es Nif: 85438218L."
+  },
+  {
+    "entity_type": "URL",
+    "text": "This example includes a Url: http://baker.com/."
+  },
+  {
+    "entity_type": "SG_UEN",
+    "text": "This example includes a Sg Uen: 318602356F."
+  },
+  {
+    "entity_type": "PHONE_NUMBER",
+    "text": "This example includes a Phone Number: (599)590-4916x195."
+  },
+  {
+    "entity_type": "US_BANK_NUMBER",
+    "text": "This example includes a Us Bank Number: 233046324217."
+  },
+  {
+    "entity_type": "US_SSN",
+    "text": "This example includes a Us Ssn: 872-23-0607."
+  },
+  {
+    "entity_type": "US_BANK_NUMBER",
+    "text": "This example includes a Us Bank Number: 510058926789."
+  },
+  {
+    "entity_type": "SG_UEN",
+    "text": "This example includes a Sg Uen: 609386817N."
+  },
+  {
+    "entity_type": "DATE_TIME",
+    "text": "This example includes a Date Time: 1982-05-19 17:53:34."
+  },
+  {
+    "entity_type": "ES_NIF",
+    "text": "This example includes a Es Nif: 50843361X."
+  },
+  {
+    "entity_type": "URL",
+    "text": "This example includes a Url: https://www.horn.com/."
+  },
+  {
+    "entity_type": "US_SSN",
+    "text": "This example includes a Us Ssn: 552-82-5118."
+  },
+  {
+    "entity_type": "AU_ABN",
+    "text": "This example includes a Au Abn: 44267294053."
+  },
+  {
+    "entity_type": "US_ITIN",
+    "text": "This example includes a Us Itin: 928-73-7956."
+  },
+  {
+    "entity_type": "MEDICAL_LICENSE",
+    "text": "This example includes a Medical License: ML-7624268."
+  },
+  {
+    "entity_type": "DATE_TIME",
+    "text": "This example includes a Date Time: 1995-10-26 13:53:49."
+  },
+  {
+    "entity_type": "IT_DRIVER_LICENSE",
+    "text": "This example includes a It Driver License: 7269981652."
+  },
+  {
+    "entity_type": "US_ITIN",
+    "text": "This example includes a Us Itin: 974-60-0212."
+  },
+  {
+    "entity_type": "IT_DRIVER_LICENSE",
+    "text": "This example includes a It Driver License: 8636390539."
+  },
+  {
+    "entity_type": "ES_NIE",
+    "text": "This example includes a Es Nie: Z2817179G."
+  },
+  {
+    "entity_type": "US_BANK_NUMBER",
+    "text": "This example includes a Us Bank Number: 466456499280."
+  },
+  {
+    "entity_type": "AU_ACN",
+    "text": "This example includes a Au Acn: 421072885."
+  },
+  {
+    "entity_type": "SG_UEN",
+    "text": "This example includes a Sg Uen: 212951493C."
+  },
+  {
+    "entity_type": "UK_NHS",
+    "text": "This example includes a Uk Nhs: 8187550871."
+  },
+  {
+    "entity_type": "UK_NHS",
+    "text": "This example includes a Uk Nhs: 4207251190."
+  },
+  {
+    "entity_type": "EMAIL_ADDRESS",
+    "text": "This example includes a Email Address: douglas84@example.net."
+  },
+  {
+    "entity_type": "IT_IDENTITY_CARD",
+    "text": "This example includes a It Identity Card: CA4005739."
+  },
+  {
+    "entity_type": "IT_FISCAL_CODE",
+    "text": "This example includes a It Fiscal Code: EFQAED79L62L922Q."
+  },
+  {
+    "entity_type": "US_DRIVER_LICENSE",
+    "text": "This example includes a Us Driver License: D17410248."
+  },
+  {
+    "entity_type": "URL",
+    "text": "This example includes a Url: http://www.smith.com/."
+  },
+  {
+    "entity_type": "PL_PESEL",
+    "text": "This example includes a Pl Pesel: 48209121496."
+  },
+  {
+    "entity_type": "AU_ABN",
+    "text": "This example includes a Au Abn: 28160510052."
+  },
+  {
+    "entity_type": "ES_NIF",
+    "text": "This example includes a Es Nif: 12710105W."
+  },
+  {
+    "entity_type": "UK_NINO",
+    "text": "This example includes a Uk Nino: HB627180E."
+  },
+  {
+    "entity_type": "URL",
+    "text": "This example includes a Url: http://www.johnson.com/."
+  },
+  {
+    "entity_type": "IP_ADDRESS",
+    "text": "This example includes a Ip Address: 198.51.158.214."
+  },
+  {
+    "entity_type": "PERSON",
+    "text": "This example includes a Person: Joseph Kelley."
+  },
+  {
+    "entity_type": "AU_ACN",
+    "text": "This example includes a Au Acn: 977181788."
+  },
+  {
+    "entity_type": "IT_FISCAL_CODE",
+    "text": "This example includes a It Fiscal Code: CXQBPV62M82T039C."
+  },
+  {
+    "entity_type": "US_PASSPORT",
+    "text": "This example includes a Us Passport: S19773086."
+  },
+  {
+    "entity_type": "US_ITIN",
+    "text": "This example includes a Us Itin: 935-09-1902."
+  },
+  {
+    "entity_type": "UK_NHS",
+    "text": "This example includes a Uk Nhs: 5777950845."
+  },
+  {
+    "entity_type": "AU_ABN",
+    "text": "This example includes a Au Abn: 50952392133."
+  },
+  {
+    "entity_type": "AU_ACN",
+    "text": "This example includes a Au Acn: 912758081."
+  },
+  {
+    "entity_type": "EMAIL_ADDRESS",
+    "text": "This example includes a Email Address: ywelch@example.com."
+  },
+  {
+    "entity_type": "AU_ACN",
+    "text": "This example includes a Au Acn: 737822913."
+  },
+  {
+    "entity_type": "PL_PESEL",
+    "text": "This example includes a Pl Pesel: 70282049863."
+  },
+  {
+    "entity_type": "IBAN_CODE",
+    "text": "This example includes a Iban Code: GB41YBNL49214282299935."
+  },
+  {
+    "entity_type": "IT_VAT_CODE",
+    "text": "This example includes a It Vat Code: 61174855915."
+  },
+  {
+    "entity_type": "IT_VAT_CODE",
+    "text": "This example includes a It Vat Code: 72127688696."
+  },
+  {
+    "entity_type": "MEDICAL_LICENSE",
+    "text": "This example includes a Medical License: ML-1022060."
+  },
+  {
+    "entity_type": "CRYPTO",
+    "text": "This example includes a Crypto: 0xae77ada7ce44710f70c8450475d60a2c3b02c565."
+  },
+  {
+    "entity_type": "EMAIL_ADDRESS",
+    "text": "This example includes a Email Address: jacksonmelissa@example.com."
+  },
+  {
+    "entity_type": "LOCATION",
+    "text": "This example includes a Location: Middletonstad."
+  },
+  {
+    "entity_type": "UK_NHS",
+    "text": "This example includes a Uk Nhs: 1668132766."
+  },
+  {
+    "entity_type": "PERSON",
+    "text": "This example includes a Person: Katrina Adams."
+  },
+  {
+    "entity_type": "CRYPTO",
+    "text": "This example includes a Crypto: 0xfb3370bb6e3f3d382a5f8a0eecdb4d9e33ea4a8d."
+  },
+  {
+    "entity_type": "AU_ABN",
+    "text": "This example includes a Au Abn: 58004163188."
+  },
+  {
+    "entity_type": "NRP",
+    "text": "This example includes a Nrp: qkennedy."
+  },
+  {
+    "entity_type": "UK_NINO",
+    "text": "This example includes a Uk Nino: ZG447399Y."
+  },
+  {
+    "entity_type": "IT_IDENTITY_CARD",
+    "text": "This example includes a It Identity Card: CA5351549."
+  },
+  {
+    "entity_type": "PL_PESEL",
+    "text": "This example includes a Pl Pesel: 55488585925."
+  },
+  {
+    "entity_type": "US_SSN",
+    "text": "This example includes a Us Ssn: 646-81-7142."
+  },
+  {
+    "entity_type": "MEDICAL_LICENSE",
+    "text": "This example includes a Medical License: ML-0150125."
+  },
+  {
+    "entity_type": "US_ITIN",
+    "text": "This example includes a Us Itin: 992-54-8780."
+  },
+  {
+    "entity_type": "CRYPTO",
+    "text": "This example includes a Crypto: 0x9389022a74cd3f97c077ddfd7b228f8c9dd2a8d8."
+  },
+  {
+    "entity_type": "CREDIT_CARD",
+    "text": "This example includes a Credit Card: 343283832160327."
+  },
+  {
+    "entity_type": "URL",
+    "text": "This example includes a Url: http://vega-ramos.info/."
+  },
+  {
+    "entity_type": "UK_NINO",
+    "text": "This example includes a Uk Nino: JH644308E."
+  },
+  {
+    "entity_type": "CREDIT_CARD",
+    "text": "This example includes a Credit Card: 30414769607000."
+  },
+  {
+    "entity_type": "IT_DRIVER_LICENSE",
+    "text": "This example includes a It Driver License: 7503353470."
+  },
+  {
+    "entity_type": "ES_NIE",
+    "text": "This example includes a Es Nie: Z6745213T."
+  },
+  {
+    "entity_type": "AU_ACN",
+    "text": "This example includes a Au Acn: 785497175."
+  },
+  {
+    "entity_type": "US_BANK_NUMBER",
+    "text": "This example includes a Us Bank Number: 552418817817."
+  },
+  {
+    "entity_type": "LOCATION",
+    "text": "This example includes a Location: Seanfurt."
+  },
+  {
+    "entity_type": "US_BANK_NUMBER",
+    "text": "This example includes a Us Bank Number: 383827136573."
+  },
+  {
+    "entity_type": "AU_ABN",
+    "text": "This example includes a Au Abn: 40863320937."
+  },
+  {
+    "entity_type": "UK_NINO",
+    "text": "This example includes a Uk Nino: JH470223M."
+  },
+  {
+    "entity_type": "SG_NRIC_FIN",
+    "text": "This example includes a Sg Nric Fin: S1067707H."
+  },
+  {
+    "entity_type": "CRYPTO",
+    "text": "This example includes a Crypto: 0x8a6b2cb3ea073b0a634c71710e97c95c9ab4b28f."
+  },
+  {
+    "entity_type": "US_PASSPORT",
+    "text": "This example includes a Us Passport: 236579142."
+  },
+  {
+    "entity_type": "UK_NINO",
+    "text": "This example includes a Uk Nino: PK650418D."
+  },
+  {
+    "entity_type": "URL",
+    "text": "This example includes a Url: http://www.simmons.com/."
+  },
+  {
+    "entity_type": "NRP",
+    "text": "This example includes a Nrp: jonesjessica."
+  },
+  {
+    "entity_type": "IT_FISCAL_CODE",
+    "text": "This example includes a It Fiscal Code: CROMPG56R32V226T."
+  },
+  {
+    "entity_type": "IT_VAT_CODE",
+    "text": "This example includes a It Vat Code: 81162756413."
+  },
+  {
+    "entity_type": "NRP",
+    "text": "This example includes a Nrp: melissa08."
+  },
+  {
+    "entity_type": "UK_NHS",
+    "text": "This example includes a Uk Nhs: 3039116046."
+  },
+  {
+    "entity_type": "SG_UEN",
+    "text": "This example includes a Sg Uen: 753056883D."
+  },
+  {
+    "entity_type": "PHONE_NUMBER",
+    "text": "This example includes a Phone Number: 001-821-256-6402x7747."
+  },
+  {
+    "entity_type": "IT_FISCAL_CODE",
+    "text": "This example includes a It Fiscal Code: MGMGGD56M05P576M."
+  },
+  {
+    "entity_type": "PL_PESEL",
+    "text": "This example includes a Pl Pesel: 53266083359."
+  },
+  {
+    "entity_type": "NRP",
+    "text": "This example includes a Nrp: gibsonwanda."
+  },
+  {
+    "entity_type": "ES_NIF",
+    "text": "This example includes a Es Nif: 90527822Q."
+  },
+  {
+    "entity_type": "AU_ACN",
+    "text": "This example includes a Au Acn: 824495483."
+  },
+  {
+    "entity_type": "PERSON",
+    "text": "This example includes a Person: Charles Sanchez."
+  },
+  {
+    "entity_type": "UK_NINO",
+    "text": "This example includes a Uk Nino: GW922500P."
+  },
+  {
+    "entity_type": "SG_UEN",
+    "text": "This example includes a Sg Uen: 795571142F."
+  },
+  {
+    "entity_type": "IT_IDENTITY_CARD",
+    "text": "This example includes a It Identity Card: CA3520361."
+  },
+  {
+    "entity_type": "SG_UEN",
+    "text": "This example includes a Sg Uen: 476947195T."
+  },
+  {
+    "entity_type": "UK_NHS",
+    "text": "This example includes a Uk Nhs: 7989719720."
+  },
+  {
+    "entity_type": "ES_NIE",
+    "text": "This example includes a Es Nie: Z7100094H."
+  },
+  {
+    "entity_type": "US_BANK_NUMBER",
+    "text": "This example includes a Us Bank Number: 547172743170."
+  },
+  {
+    "entity_type": "UK_NINO",
+    "text": "This example includes a Uk Nino: ZP085945N."
+  },
+  {
+    "entity_type": "CREDIT_CARD",
+    "text": "This example includes a Credit Card: 6588034733402958."
+  },
+  {
+    "entity_type": "EMAIL_ADDRESS",
+    "text": "This example includes a Email Address: mmoore@example.net."
+  },
+  {
+    "entity_type": "SG_UEN",
+    "text": "This example includes a Sg Uen: 595555826T."
+  }
+]

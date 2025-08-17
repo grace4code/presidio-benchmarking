@@ -1,0 +1,219 @@
+[
+  {
+    "Entity": "AU_ABN",
+    "Precision": 0.0,
+    "Recall": 0.0,
+    "F1": 0.0,
+    "Support": 8
+  },
+  {
+    "Entity": "AU_ACN",
+    "Precision": 0.0,
+    "Recall": 0.0,
+    "F1": 0.0,
+    "Support": 19
+  },
+  {
+    "Entity": "CREDIT_CARD",
+    "Precision": 1.0,
+    "Recall": 1.0,
+    "F1": 1.0,
+    "Support": 6
+  },
+  {
+    "Entity": "CRYPTO",
+    "Precision": 0.0,
+    "Recall": 0.0,
+    "F1": 0.0,
+    "Support": 11
+  },
+  {
+    "Entity": "DATE_TIME",
+    "Precision": 1.0,
+    "Recall": 1.0,
+    "F1": 1.0,
+    "Support": 8
+  },
+  {
+    "Entity": "EMAIL_ADDRESS",
+    "Precision": 1.0,
+    "Recall": 1.0,
+    "F1": 1.0,
+    "Support": 12
+  },
+  {
+    "Entity": "ES_NIE",
+    "Precision": 0.0,
+    "Recall": 0.0,
+    "F1": 0.0,
+    "Support": 5
+  },
+  {
+    "Entity": "ES_NIF",
+    "Precision": 0.0,
+    "Recall": 0.0,
+    "F1": 0.0,
+    "Support": 10
+  },
+  {
+    "Entity": "IBAN_CODE",
+    "Precision": 1.0,
+    "Recall": 1.0,
+    "F1": 1.0,
+    "Support": 10
+  },
+  {
+    "Entity": "IP_ADDRESS",
+    "Precision": 1.0,
+    "Recall": 1.0,
+    "F1": 1.0,
+    "Support": 12
+  },
+  {
+    "Entity": "IT_DRIVER_LICENSE",
+    "Precision": 0.0,
+    "Recall": 0.0,
+    "F1": 0.0,
+    "Support": 9
+  },
+  {
+    "Entity": "IT_FISCAL_CODE",
+    "Precision": 0.0,
+    "Recall": 0.0,
+    "F1": 0.0,
+    "Support": 7
+  },
+  {
+    "Entity": "IT_IDENTITY_CARD",
+    "Precision": 0.0,
+    "Recall": 0.0,
+    "F1": 0.0,
+    "Support": 6
+  },
+  {
+    "Entity": "IT_PASSPORT",
+    "Precision": 0.0,
+    "Recall": 0.0,
+    "F1": 0.0,
+    "Support": 4
+  },
+  {
+    "Entity": "IT_VAT_CODE",
+    "Precision": 0.0,
+    "Recall": 0.0,
+    "F1": 0.0,
+    "Support": 11
+  },
+  {
+    "Entity": "LOCATION",
+    "Precision": 0.0,
+    "Recall": 0.0,
+    "F1": 0.0,
+    "Support": 6
+  },
+  {
+    "Entity": "MEDICAL_LICENSE",
+    "Precision": 0.0,
+    "Recall": 0.0,
+    "F1": 0.0,
+    "Support": 10
+  },
+  {
+    "Entity": "NRP",
+    "Precision": 0.0,
+    "Recall": 0.0,
+    "F1": 0.0,
+    "Support": 16
+  },
+  {
+    "Entity": "PERSON",
+    "Precision": 1.0,
+    "Recall": 1.0,
+    "F1": 1.0,
+    "Support": 10
+  },
+  {
+    "Entity": "PHONE_NUMBER",
+    "Precision": 1.0,
+    "Recall": 0.7692307692307693,
+    "F1": 0.8695652173913043,
+    "Support": 13
+  },
+  {
+    "Entity": "PL_PESEL",
+    "Precision": 0.0,
+    "Recall": 0.0,
+    "F1": 0.0,
+    "Support": 9
+  },
+  {
+    "Entity": "SG_NRIC_FIN",
+    "Precision": 0.0,
+    "Recall": 0.0,
+    "F1": 0.0,
+    "Support": 7
+  },
+  {
+    "Entity": "SG_UEN",
+    "Precision": 0.0,
+    "Recall": 0.0,
+    "F1": 0.0,
+    "Support": 14
+  },
+  {
+    "Entity": "UK_NHS",
+    "Precision": 0.0,
+    "Recall": 0.0,
+    "F1": 0.0,
+    "Support": 12
+  },
+  {
+    "Entity": "UK_NINO",
+    "Precision": 0.0,
+    "Recall": 0.0,
+    "F1": 0.0,
+    "Support": 14
+  },
+  {
+    "Entity": "URL",
+    "Precision": 1.0,
+    "Recall": 1.0,
+    "F1": 1.0,
+    "Support": 15
+  },
+  {
+    "Entity": "US_BANK_NUMBER",
+    "Precision": 1.0,
+    "Recall": 1.0,
+    "F1": 1.0,
+    "Support": 11
+  },
+  {
+    "Entity": "US_DRIVER_LICENSE",
+    "Precision": 1.0,
+    "Recall": 1.0,
+    "F1": 1.0,
+    "Support": 6
+  },
+  {
+    "Entity": "US_ITIN",
+    "Precision": 1.0,
+    "Recall": 0.36363636363636365,
+    "F1": 0.5333333333333333,
+    "Support": 11
+  },
+  {
+    "Entity": "US_PASSPORT",
+    "Precision": 1.0,
+    "Recall": 1.0,
+    "F1": 1.0,
+    "Support": 8
+  },
+  {
+    "Entity": "US_SSN",
+    "Precision": 1.0,
+    "Recall": 1.0,
+    "F1": 1.0,
+    "Support": 10
+  }
+]
