@@ -1,0 +1,11 @@
+{
+    "precision": 0.765,
+    "recall": 0.895,
+    "f1_score": 0.825,
+    "exact_index_accuracy": 0.818,
+    "total_expected": 754,
+    "total_detected": 882,
+    "total_tp": 675,
+    "total_fp": 207,
+    "total_fn": 79
+}
